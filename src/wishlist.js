@@ -1,4 +1,4 @@
-import { Car } from "./car.js";
+import  Car  from "./car";
 
 //List of Cars:
 //[Car()
